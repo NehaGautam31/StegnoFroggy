@@ -15,7 +15,7 @@ export default function About() {
   }
 
   const documentation=()=>{
-    window.open("https://github.com/Amessaa/Stegno", '_blank').focus();
+    window.open("https://github.com/NehaGautam31/StegnoFroggy", '_blank').focus();
   }
 
 
